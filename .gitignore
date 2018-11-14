@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+TorchFriend.csproj
+TorchFriend.csproj.user
+TorchFriend.sln
