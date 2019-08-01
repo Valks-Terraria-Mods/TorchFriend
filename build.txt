@@ -1,4 +1,4 @@
 author = valkyrienyanko
-version = 1.0
+version = 1.2
 displayName = Torch Friend
 homepage = https://discord.gg/thMupbv
