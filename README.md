@@ -1,1 +1,1 @@
-Forgot a torch? No problem! Just craft one with some dirt!
+Craft a torch with 25 of most types of blocks (e.g. dirt, ice, mud or stone).
